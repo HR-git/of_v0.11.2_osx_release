@@ -1,0 +1,15 @@
+.DS_Store
+/addons/
+/docs/
+/examples/
+/libs/
+/other/
+/projectGenerator/
+/scripts/
+/CHANGELOG.md
+/CODE_OF_CONDUCT.md
+/INSTALL_FROM_GITHUB.md
+/INSTALL.md
+/LICENSE.md
+/README.md
+/THANKS.md
