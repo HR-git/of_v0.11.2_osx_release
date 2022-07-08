@@ -9,7 +9,7 @@
 
 ParticleVec3::ParticleVec3() { //コンストラクタ(クラス::関数)
     location = glm::vec3(ofGetWidth() / 2, ofGetHeight()/ 2, 0);
-    velocity = glm::vec3(ofRandom(-10, 10), ofRandom(-10, 10), ofRandom(-10, 10));
+    velocity = glm::vec3(ofRandom(-5, 5), ofRandom(-5, 5), ofRandom(-5, 5));
     initTime = ofGetElapsedTimef(); //プログラムが実行されてからの経過時間を秒で記録
     lifeTime = 10.0; //持続時間
     isLive = true; //現在の状態
@@ -34,7 +34,7 @@ void ParticleVec3::bounce() {
     if (location.y > ofGetHeight() || location.y < 0) {
         velocity.y = velocity.y * -1;
     }
-//    if (location.z > ofGetDepth() || location.z < 0) { //z軸のbounceがわからない
-//        velocity.z = velocity.z * -1;
-//    }
+    if (location.z > ofGetHeight() || location.z < -ofGetHeight()) {
+        velocity.z = velocity.z * -1;
+    }
 }

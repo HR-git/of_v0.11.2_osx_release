@@ -8,7 +8,7 @@ void ofApp::setup(){
 
 //--------------------------------------------------------------
 void ofApp::update(){
-    //配列の末尾にlocation, velocityを追加する(要素の格納)
+    //座標を一旦変数locに代入してそれを可変長配列locationの末尾にpushbackする(要素の格納)
     glm::vec2 loc = glm::vec2(ofGetWidth() / 2, ofGetHeight() / 2);
     location.push_back(loc);
     glm::vec2 vel = glm::vec2(ofRandom(-10, 10), ofRandom(-10, 10));
