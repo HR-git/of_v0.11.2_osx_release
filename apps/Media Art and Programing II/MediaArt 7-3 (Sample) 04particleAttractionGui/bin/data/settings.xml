@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<group>
+	<mass>1.25</mass>
+	<friction>0.02235</friction>
+	<attractForce>4.1</attractForce>
+</group>
