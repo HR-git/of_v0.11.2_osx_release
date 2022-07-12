@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-               BuildableName = "MediaArt 8-4 add Multiple Objects.app"
+               BuildableName = "MediaArt 8-5 Draw Various Shapes.app"
                BlueprintName = "MediaArt 8-5 Draw Various Shapes"
                ReferencedContainer = "container:MediaArt 8-5 Draw Various Shapes.xcodeproj">
             </BuildableReference>
@@ -31,7 +31,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "MediaArt 8-4 add Multiple Objects.app"
+            BuildableName = "MediaArt 8-5 Draw Various Shapes.app"
             BlueprintName = "MediaArt 8-5 Draw Various Shapes"
             ReferencedContainer = "container:MediaArt 8-5 Draw Various Shapes.xcodeproj">
          </BuildableReference>
@@ -54,7 +54,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "MediaArt 8-4 add Multiple Objects.app"
+            BuildableName = "MediaArt 8-5 Draw Various Shapes.app"
             BlueprintName = "MediaArt 8-5 Draw Various Shapes"
             ReferencedContainer = "container:MediaArt 8-5 Draw Various Shapes.xcodeproj">
          </BuildableReference>
@@ -71,7 +71,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "MediaArt 8-4 add Multiple Objects.app"
+            BuildableName = "MediaArt 8-5 Draw Various Shapes.app"
             BlueprintName = "MediaArt 8-5 Draw Various Shapes"
             ReferencedContainer = "container:MediaArt 8-5 Draw Various Shapes.xcodeproj">
          </BuildableReference>

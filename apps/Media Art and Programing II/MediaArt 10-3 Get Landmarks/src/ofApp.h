@@ -15,6 +15,6 @@ public:
     void update();
     void draw();
     
-    ofxFaceTracker2 tracker;
-    ofVideoGrabber grabber;
+    ofxFaceTracker2 tracker; //addons
+    ofVideoGrabber grabber; //クラス
 };
