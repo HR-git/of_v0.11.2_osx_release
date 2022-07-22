@@ -1,4 +1,5 @@
 .DS_Store
+.vs/
 /addons/
 /docs/
 /examples/
@@ -13,6 +14,6 @@
 /LICENSE.md
 /README.md
 /THANKS.md
-/apps/Music Apps Private/
-/apps/Visual Apps Private/
+/apps/MusicAppsPrivate/
+/apps/VisualAppsPrivate/
 /apps/myApps/
